@@ -1,6 +1,6 @@
 # User Personas
 
-In user experience (UX) terms, a persona is a fictional character created to represent different types of users, and to give insight into their goals, abilities, and behaviors. A good overview of personas can be found at the [usability.gov website](http://www.usability.gov/methods/analyze_current/personas.html "usability.gov Personas")
+In user experience (UX) terms, a persona is a fictional character created to represent different types of users, and to give insight into their goals, abilities, and behaviors. A good overview of personas can be found at the [usability.gov website](https://www.usability.gov/how-to-and-tools/methods/personas.html "usability.gov Personas")
 
 Personas are invaluable to a technical writer, because they allow you to write with a particular user in mind, and the documentation can be geared towards that user’s skill set and goals. 
 
